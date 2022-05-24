@@ -14,8 +14,8 @@ I have named the task according to your question:
 - convert to parquet (Convert CSV file to parquet format)
 - jkf_airport_trip (Added column named JFK_airport (boolean) to check if drop-off location is JFK airport)
 
-Task 1 answer parquet file can be found in datalake/landing/sample/NYC_trip.parquet
-Task 2 answer can be found under ==================================JFK_airport column added===================================== section in the `log`. 
+Task 1 answer parquet file can be found in datalake/landing/sample/NYC_trip.parquet \
+Task 2 answer can be found under =====================JFK_airport column added====================== section in the `log`. \
 
 3. **Work explaination**
 Docker-Compose: 
