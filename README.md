@@ -7,7 +7,7 @@ You should have docker installed on your local machine
 Clone the repo to your local \
 Run the command: `docker-compose up -d --build` \
 Open web browser on: `http://localhost:8080/` \
-You will see a job called `nyxtaxi_dag` \
+You will see a job called `nyctaxi_dag` \
 Turn the job `OFF` --> `ON` \
 You can trigger DAG to see the result again. \
 I have named the task according to your question:
